@@ -14,10 +14,9 @@ import com.backend2.bakend2.Model.Car;
 import com.backend2.bakend2.Repository.CarRepository;
 
 
-
 @RestController
 @RequestMapping("api/car")
-public class CarController {
+public class CarController extends ApiBaseController{
 
     @Autowired
     private CarRepository carrepository;

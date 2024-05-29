@@ -1,5 +1,3 @@
-## ESTE ARCHIVO GITHUB TAMBIEN CONTIENE EL BANCKEND Y EL EJERCICIO CON FIREBASE
-
 ## PRIMERA ENTREGA DEL FRONT DE LA API 
 
 Este es el primer front que hacemos en clase respecto a la api 
@@ -135,17 +133,6 @@ export default CarTable
 # Ahora esto es como lo mas fundamental del api pero el App.jsx permite que se vea el codigo en JavaScript
 Este es mi front es basico, pero ya lo e probado y funciona
 -Pero contiene algo es que cuando quiera editar un carro debo volver a copiar los datos del carro y modificar el dato que quiera manipular el codigo no tiene en este momento de tener la capacidad para importar esos datos para ser modificados 
-
-
-
-
-
-
-
-
-
-
-
 
 
 # React + Vite
